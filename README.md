@@ -1,2 +1,2 @@
-# Angular_Java_blog
-Angular Java blog
+# Angular_weather_forecast_API
+Angular weather forecast API
